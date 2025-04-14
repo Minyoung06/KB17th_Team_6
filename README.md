@@ -1,3 +1,31 @@
+> 📌 **본 저장소는 [KB IT's Your Life 6기 스켈레톤 팀 프로젝트](https://github.com/seunguk99/KB17th_Team_6)를 Fork하여,  
+> 개인 포트폴리오 용도로 정리한 저장소입니다.**  
+> 아래는 본 프로젝트에서의 제 기여 내용입니다.
+
+## 👤 나의 기여 요약
+
+- `/stores/userStore.js`, `/pages/UserSelection.vue`, `/pages/ProfilePage.vue` 등 **유저 관련 기능 구현**
+- `/components/layout/` 내 `Header.vue`, `Footer.vue`, `DefaultLayout.vue` 등 **전체 레이아웃 컴포넌트 제작**
+- `/components/nav/` 내 `NavBar.vue`, `MenuGroup.vue`, `MenuItem.vue` 등 **네비게이션 바 설계 및 메뉴 동적 렌더링 구현**
+- Composition API, Vue Router를 활용한 **SPA 구조 설계**
+- Composition API 및 Slot을 활용한 **재사용 가능한 기본 레이아웃 구조 설계**
+- **Vue Router + Composition API 기반 페이지 라우팅 설계**
+- 반응형 UI 구성 및 Bootstrap 기반 레이아웃 정렬 적용
+- 팀 협업 구조 설계 및 Git flow 관리 일부 참여
+
+## 🗂️ 프로젝트 문서 및 자료
+
+- 📄 [Notion 기획 & 과정 문서](https://peppermint-heaven-8c4.notion.site/6-1ced22ad250b802691eac664031e00ee)
+  - 프로젝트 설계, 역할 분담
+  - Figma 기반 페이지 UI 설계
+  - 테스트 및 피드백
+  - 최종 발표용 PPT 포함
+
+> 👉 Notion을 통해 팀 전체 협업 과정을 기록하였으며,  
+> Figma를 활용한 설계와 PPT 발표 자료도 포함되어 있습니다.
+
+---
+
 # 💰 가계부 프로젝트
 
 KB IT's Your Life 6기 프론트엔드 스켈레톤 프로젝트로 진행하였습니다.
@@ -28,8 +56,8 @@ Vue.js 기반의 SPA 가계부 애플리케이션입니다. 사용자 선택, �
 | 아이콘        | Font Awesome            |
 | API 통신      | Axios                   |
 | 목서버        | JSON Server             |
-| 차트 시각화     | Chat.js            |
-| 캘린더    | Vue-Cal           |
+| 차트 시각화   | Chat.js                 |
+| 캘린더        | Vue-Cal                 |
 | 협업 도구     | Git / GitHub            |
 
 ---
